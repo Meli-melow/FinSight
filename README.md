@@ -1,4 +1,4 @@
-# Programmation Fonctionelle - Projet AKKA
+# Application web FinSight - Gestion de portefeulles financiers en temps réel
 
 Réalisé dans une équipe de 5 étudiants.
 
