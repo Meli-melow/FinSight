@@ -1,0 +1,42 @@
+
+.bsp/
+.bsp/*
+
+target/
+target/*
+
+.metals/
+.metals/*
+
+.vscode/
+.vscode/*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# MacOS & system files
+.DS_Store
+
+# Coursier (dependency resolver)
+.coursier/
+.coursier/*
+
+# SBT-specific files
+project/project/
+project/target/
+lib_managed/
+src_managed/
+dist/
+
+# Bloop (build server)
+.bloop/
+.bloop/*
