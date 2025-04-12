@@ -1,6 +1,6 @@
 # Programmation Fonctionelle - Projet AKKA
 
-Réalisé dans une équipe de étudiants.
+Réalisé dans une équipe de 5 étudiants.
 
 ## Prérequis
 - ### Scala :
