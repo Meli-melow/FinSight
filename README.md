@@ -1,12 +1,6 @@
 # Programmation Fonctionelle - Projet AKKA
 
-Célian Mignot  
-Clément Delamotte  
-Alexandre Grisez  
-Olivier Compagnon--Minarro  
-Lyz Piam  
-
-ING2 GSI  
+Réalisé dans une équipe de étudiants.
 
 ## Prérequis
 - ### Scala :
